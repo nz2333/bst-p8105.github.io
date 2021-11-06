@@ -1,0 +1,35 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## subsection
+
+text text
+
+```{r}
+rnorm(10)
+```
+
+## Links to websites
+Links to useful tools of ds:
+
+* [Google](https://www.google.com/)
+* [P8105](https://p8105.com)
+
+
+## Local image
+![](./poster.png)
+
+## Link to about me page
+[About me](aboutme.html)
+
+
